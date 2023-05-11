@@ -160,9 +160,14 @@
 	border-left: 5px solid #717070;
 }
 .right_article ul li:hover {
-	background-color: #717070;
-	cursor: pointer;
+    background-color: #717070;
+    cursor: pointer;
+    width: 250px;
+    height: 250px;
 }
+section .right_article img {
+}
+
 .footer {
 	background-color: #717070;
 }
